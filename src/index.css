@@ -4,6 +4,9 @@ body {
 .navbar {
   background-color: #213547;
 }
+.navbar-collapse {
+  flex-grow: 0 !important;
+}
 .nav-link {
   color: white !important;
   font-weight: bold !important;
